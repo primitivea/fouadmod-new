@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Emirates Project'
-copyright = '2024, Muayed'
-author = 'Muayed'
+project = 'FouadMod Project'
+copyright = '2024, FouadWA'
+author = 'FouadWA'
 
 release = '0.1'
 version = '0.1.0'
